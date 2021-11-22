@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F5998BCB2747FEF300DEE564 /* TabBarAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5998BCA2747FEF300DEE564 /* TabBarAppApp.swift */; };
+		F5998BCB2747FEF300DEE564 /* RetailRoundup.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5998BCA2747FEF300DEE564 /* RetailRoundup.swift */; };
 		F5998BCD2747FEF300DEE564 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5998BCC2747FEF300DEE564 /* ContentView.swift */; };
 		F5998BCF2747FEF600DEE564 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5998BCE2747FEF600DEE564 /* Assets.xcassets */; };
 		F5998BD22747FEF600DEE564 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5998BD12747FEF600DEE564 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F5998BC72747FEF300DEE564 /* TabBarApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabBarApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F5998BCA2747FEF300DEE564 /* TabBarAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarAppApp.swift; sourceTree = "<group>"; };
+		F5998BC72747FEF300DEE564 /* RetailRoundup.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RetailRoundup.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F5998BCA2747FEF300DEE564 /* RetailRoundup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetailRoundup.swift; sourceTree = "<group>"; };
 		F5998BCC2747FEF300DEE564 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F5998BCE2747FEF600DEE564 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5998BD12747FEF600DEE564 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -35,7 +35,7 @@
 		F5998BBE2747FEF300DEE564 = {
 			isa = PBXGroup;
 			children = (
-				F5998BC92747FEF300DEE564 /* TabBarApp */,
+				F5998BC92747FEF300DEE564 /* RetailRoundup */,
 				F5998BC82747FEF300DEE564 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,20 +43,20 @@
 		F5998BC82747FEF300DEE564 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F5998BC72747FEF300DEE564 /* TabBarApp.app */,
+				F5998BC72747FEF300DEE564 /* RetailRoundup.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F5998BC92747FEF300DEE564 /* TabBarApp */ = {
+		F5998BC92747FEF300DEE564 /* RetailRoundup */ = {
 			isa = PBXGroup;
 			children = (
-				F5998BCA2747FEF300DEE564 /* TabBarAppApp.swift */,
+				F5998BCA2747FEF300DEE564 /* RetailRoundup.swift */,
 				F5998BCC2747FEF300DEE564 /* ContentView.swift */,
 				F5998BCE2747FEF600DEE564 /* Assets.xcassets */,
 				F5998BD02747FEF600DEE564 /* Preview Content */,
 			);
-			path = TabBarApp;
+			path = RetailRoundup;
 			sourceTree = "<group>";
 		};
 		F5998BD02747FEF600DEE564 /* Preview Content */ = {
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F5998BC62747FEF300DEE564 /* TabBarApp */ = {
+		F5998BC62747FEF300DEE564 /* RetailRoundup */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F5998BD52747FEF600DEE564 /* Build configuration list for PBXNativeTarget "TabBarApp" */;
+			buildConfigurationList = F5998BD52747FEF600DEE564 /* Build configuration list for PBXNativeTarget "RetailRoundup" */;
 			buildPhases = (
 				F5998BC32747FEF300DEE564 /* Sources */,
 				F5998BC42747FEF300DEE564 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = TabBarApp;
+			name = RetailRoundup;
 			productName = TabBarApp;
-			productReference = F5998BC72747FEF300DEE564 /* TabBarApp.app */;
+			productReference = F5998BC72747FEF300DEE564 /* RetailRoundup.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F5998BC22747FEF300DEE564 /* Build configuration list for PBXProject "TabBarApp" */;
+			buildConfigurationList = F5998BC22747FEF300DEE564 /* Build configuration list for PBXProject "RetailRoundup" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F5998BC62747FEF300DEE564 /* TabBarApp */,
+				F5998BC62747FEF300DEE564 /* RetailRoundup */,
 			);
 		};
 /* End PBXProject section */
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5998BCD2747FEF300DEE564 /* ContentView.swift in Sources */,
-				F5998BCB2747FEF300DEE564 /* TabBarAppApp.swift in Sources */,
+				F5998BCB2747FEF300DEE564 /* RetailRoundup.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +268,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TabBarApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"RetailRoundup/Preview Content\"";
 				DEVELOPMENT_TEAM = NZNB7J8RKY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -298,7 +298,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"TabBarApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"RetailRoundup/Preview Content\"";
 				DEVELOPMENT_TEAM = NZNB7J8RKY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -324,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F5998BC22747FEF300DEE564 /* Build configuration list for PBXProject "TabBarApp" */ = {
+		F5998BC22747FEF300DEE564 /* Build configuration list for PBXProject "RetailRoundup" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F5998BD32747FEF600DEE564 /* Debug */,
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F5998BD52747FEF600DEE564 /* Build configuration list for PBXNativeTarget "TabBarApp" */ = {
+		F5998BD52747FEF600DEE564 /* Build configuration list for PBXNativeTarget "RetailRoundup" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F5998BD62747FEF600DEE564 /* Debug */,

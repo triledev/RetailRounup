@@ -1,5 +1,5 @@
 //
-//  TabBarAppApp.swift
+//  RetailRoundup.swift
 //  TabBarApp
 //
 //  Created by Prabhu Patil on 19/11/21.
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct TabBarAppApp: App {
+struct RetailRoundup: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
