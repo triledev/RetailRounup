@@ -14,7 +14,7 @@ struct ContentView: View {
             FirstView()
                 .tabItem {
                     Image(systemName: "house")
-                    Text("Welcome Screen")
+                    Text("Home")
                 }
             
             SecondView()
