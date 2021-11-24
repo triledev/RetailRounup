@@ -73,7 +73,7 @@ struct ThirdView : View {
     var body: some View {
         ZStack {
             Color.gray.ignoresSafeArea(edges:.top)
-            Text("Location View")
+            Text("Maps View")
         }
     }
 }
