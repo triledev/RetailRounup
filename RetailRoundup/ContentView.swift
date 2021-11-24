@@ -26,7 +26,7 @@ struct ContentView: View {
             ThirdView()
                 .tabItem {
                     Image(systemName: "mappin.and.ellipse")
-                    Text("Location")
+                    Text("Maps")
                 }
 
             FourthView()
