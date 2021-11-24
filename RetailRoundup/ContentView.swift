@@ -7,31 +7,6 @@
 
 import SwiftUI
 
-/*
-struct ContentView: View {
-    var body: some View {
-        TabView {
-            Text("First Tab")
-                .tabItem {
-                    Image(systemName: "house.fill")
-                    Text("First")
-                }
-            
-            Text("Second Tab")
-                .tabItem {
-                    Image(systemName: "gear")
-                    Text("Second")
-                }
-        }
-    }
-}
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
-}
-*/
 
 struct ContentView: View {
     var body: some View {
